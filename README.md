@@ -11,22 +11,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<div align="center"> <img align="center" src="https://activity-graph.herokuapp.com/graph?username=aroundchange&theme=xcode" width="100%"/> </div>
 
 <!--
 **aroundchange/aroundchange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
