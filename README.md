@@ -5,7 +5,7 @@
 ![](https://img.shields.io/github/stars/aroundchange?style=social) 
 ![visitor badge](https://visitor-badge.deta.dev/badge?page_id=aroundchange.visitor-badge)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=aroundchange&show_icons=true&icon_color=1E90FF&text_color=FFFFFF&bg_color=696969&hide_title=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=aroundchange&show_icons=true&icon_color=1E90FF&text_color=FFFFFF&bg_color=808080&hide_title=true" />
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
