@@ -9,11 +9,11 @@
 
 - 🔭 Pronouns: Nico
 - 🌱 Fun Fact: Founder of Qubit Technology
-- 🤔 Ask me about Artificial Intelligence
-- 📫 How to reach me: https://blog.csdn.net/qubittechnology
-- 💬 I’m currently learning: 408
-- 😄 I’m currently working on: Algorithm
-- 🔭 I’m looking for help with: CV Algorithm Engineer
+- 🤔 Ask Me About Artificial Intelligence
+- 📫 How To Reach Me: https://blog.csdn.net/qubittechnology
+- 💬 I’m Currently Learning: 408
+- 😄 I’m Currently Working On: Algorithm
+- 🔭 I’m Looking For Help With: CV Algorithm Engineer
 
 <div align="center"> <img align="center" src="https://activity-graph.herokuapp.com/graph?username=aroundchange&theme=xcode" width="100%"/> </div>
 
