@@ -10,7 +10,7 @@
 - 🔭 Pronouns: Nico
 - 🌱 Fun Fact: Founder of Qubit Technology
 - 🤔 Ask Me About Artificial Intelligence
-- 📫 How To Reach Me: https://blog.csdn.net/qubittechnology
+- 📫 How To Reach Me: aroundchange@163.com
 - 💬 I’m Currently Learning: 408
 - 😄 I’m Currently Working On: Algorithm
 - 🔭 I’m Looking For Help With: CV Algorithm Engineer
