@@ -13,7 +13,7 @@
 - 📫 How To Reach Me: aroundchange@163.com
 - 💬 I’m Currently Learning: 408
 - 😄 I’m Currently Working On: Algorithm
-- 🔭 I’m Looking For Help With: CV Algorithm Engineer
+- 🔭 I’m Looking For Help With: AI
 
 <div align="center"> <img align="center" src="https://activity-graph.herokuapp.com/graph?username=aroundchange&theme=xcode" width="100%"/> </div>
 
