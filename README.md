@@ -8,7 +8,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=aroundchange&show_icons=true&icon_color=1E90FF&text_color=FFFFFF&bg_color=333333&hide_title=true" />
 
 - 🔭 Pronouns: Nico
-- 🌱 Fun Fact: Founder of Qubit Technology
+- 🌱 Fun Fact: Founder of Qubit S&T
 - 🤔 Ask Me About Artificial Intelligence
 - 📫 How To Reach Me: aroundchange@163.com
 - 💬 I’m Currently Learning: 408
